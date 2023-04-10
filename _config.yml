@@ -18,17 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: CyberTracker Wiki
+title: GoGorilla Forms
 email: justin@steventon.com
 logo: "/assets/logo.svg"
 description: >- # this means to ignore newlines until "baseurl:"
-  CyberTracker Wiki is for users wanting to get the most out of CyberTracker. It includes
+  GoGorilla Forms is for users wanting to get the most out of GoGorilla Forms. It includes
   information for users of all levels.
 baseurl: "" # the subpath for github pages
-url: "https://www.cybertrackerwiki.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.gogorillaforms.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: justinsteventon
 
-color_scheme: ctcolors
+color_scheme: ggcolors
 
 # Build settings
 remote_theme: just-the-docs/just-the-docs
@@ -46,8 +46,8 @@ ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (t
 
 # Aux links for the upper right navigation
 aux_links:
-  "CyberTracker":
-    - "https://cybertracker.org"
+  "GoGorilla Forms":
+    - "https://gogorillaforms.com"
 
 # Back to top link
 back_to_top: true

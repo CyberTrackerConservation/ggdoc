@@ -17,7 +17,7 @@ The words of which the initial letter is capitalized have meanings defined under
 
 For the purposes of these Terms and Conditions:
 
-- **Application** means the software program provided by the Company downloaded by You on any electronic device, named CyberTracker
+- **Application** means the software program provided by the Company downloaded by You on any electronic device, named GoGorilla Forms.
     
 - **Application Store** means the digital distribution service operated and developed by Apple Inc. (Apple App Store) or Google Inc. (Google Play Store) in which the Application has been downloaded.
     
@@ -120,4 +120,4 @@ By continuing to access or use Our Service after those revisions become effectiv
 
 If you have any questions about these Terms and Conditions, You can contact us:
 
-- By visiting this page on our website: [https://cybertracker.org](https://cybertracker.org)
+- By visiting this page on our website: [https://gogorillaforms.com](https://gogorillaforms.com)

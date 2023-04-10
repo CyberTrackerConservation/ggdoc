@@ -1,8 +1,8 @@
 # bundle exec jekyll serve --config pdfconfigs/config_print.yml
 # Use Safari and File->Print to output as PDF
 
-title: SMART Mobile User Manual
-email: info@smartconservationsoftware.org
+title: GoGorilla Forms Mobile User Manual
+email: justin@steventon.com
 logo: "/assets/logo.svg"
 
 baseurl: "" # the subpath for github pages

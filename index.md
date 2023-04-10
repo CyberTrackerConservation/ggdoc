@@ -4,17 +4,11 @@ title: Home
 nav_order: 1000
 ---
 
-# Welcome to the CyberTracker Wiki!
+# Welcome to the GoGorilla Forms!
 
-## What is CyberTracker?
-[CyberTracker](http://cybertracker.org) is a nonprofit organization which develops software as part of a larger vision. 
-CyberTracker is most widely used in conservation, but it has also been successfully customized for a variety of other fields.
-
-## How much does CyberTracker cost?
-
-CyberTracker is freeware and is supported through donors and community funded features.
+## What is GoGorilla?
+[GoGorilla](http://gogorillaforms.com) is a mobile application designed to take your Google Forms offline. You can use it to create and share surveys.
 
 ## How can I get technical support?
 
-CyberTracker is supported by a [Forum](https://support.cybertracker.org/). The group is
-monitored by the CyberTracker team and has many knowledgeable folks asking and answering questions.
+Coming soon...

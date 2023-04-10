@@ -3,12 +3,8 @@
         "apps": [],
         "details": [
             {
-                "appID": "HTYSXFSCA2.org.cybertracker.mobile",
-                "paths": ["/applink", "/applink-smart"]
-            },
-            {
-                "appID": "HTYSXFSCA2.org.cybertracker.smartcollect",
-                "paths": ["/applink", "/applink-smart"]
+                "appID": "HTYSXFSCA2.org.cybertracker.ggforms",
+                "paths": ["/applink"]
             }
         ]
     }
