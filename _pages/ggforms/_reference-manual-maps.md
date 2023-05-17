@@ -1,7 +1,7 @@
 ## Offline maps
 
 ### What is an offline map?
-Offline maps are map layers that are installed in CyberTracker. They can be used on the Map page. With the exception of WMS layers, they do not require a network connection.
+Offline maps are map layers that are installed in Rilla Forms. They can be used on the Map page. With the exception of WMS layers, they do not require a network connection.
 
 ### Packages
 An offline map package is a zip file containing one or more layer files. See this [sample]({{ site.baseurl }}/assets/xlsform/offlinemap.zip) file. Note that the `layers.json` file is optional - by default the system will automatically discover files with supported extensions. Many map layers require several files with the same base name, for example shape files require a .shp, .shx, .dbf and .prj file. These should all be in the base directory of the zip file.
@@ -9,7 +9,7 @@ An offline map package is a zip file containing one or more layer files. See thi
 ### Package installation
 On **desktop**, a map package can be installed using `Install package` from the `File` menu.
 
-On **mobile**, CyberTracker registers as a handler for zip files. When opening a zip, a prompt is displayed asking which app to open the file with. Select CyberTracker and the map will be installed. This is useful, because it is possible to send people a link via email or SMS.
+On **mobile**, Rilla registers as a handler for zip files. When opening a zip, a prompt is displayed asking which app to open the file with. Select Rilla and the map will be installed. This is useful, because it is possible to send people a link via email or SMS.
 
 Maps can also be installed directly from the `Offline maps` page. This can be reached via `Settings` or the gear icon on the Map Layers page:
 <table>
@@ -21,7 +21,7 @@ Maps can also be installed directly from the `Offline maps` page. This can be re
 </table>
 
 ### Layer order and opacity
-CyberTracker will discover and install layers in a zip file automatically. While this is often acceptable, when there are multiple layers, it is useful to specify the order and opacity of each. To do this, add a `layers.json` file to the zip and specify each of the layers:
+Rilla Forms will discover and install layers in a zip file automatically. While this is often acceptable, when there are multiple layers, it is useful to specify the order and opacity of each. To do this, add a `layers.json` file to the zip and specify each of the layers:
 
 ```json
 [

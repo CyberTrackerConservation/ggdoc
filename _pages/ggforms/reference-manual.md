@@ -6,7 +6,7 @@ permalink: /reference-manual/
 has_children: true
 has_toc: false
 ---
-GoGorilla Forms Reference Manual
+Rilla Forms Reference Manual
 ========================
 {: .no_toc }
 

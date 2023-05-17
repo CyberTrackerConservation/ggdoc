@@ -1,7 +1,7 @@
 # bundle exec jekyll serve --config pdfconfigs/config_print.yml
 # Use Safari and File->Print to output as PDF
 
-title: GoGorilla Forms Mobile User Manual
+title: Rilla Forms Mobile User Manual
 email: justin@steventon.com
 logo: "/assets/logo.svg"
 
