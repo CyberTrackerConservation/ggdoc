@@ -10,7 +10,7 @@ We take your privacy seriously and want you to feel confident when using the app
 ## Definitions
 For the purposes of this Privacy Policy:<br/>
 **You** means the individual using the App.<br/>
-**App** means the Rilla Forms.<br/>
+**App** means Rilla Forms.<br/>
 
 ## Information we collect
 The app collects usage statistics such as the number of times it is opened and which features are used. Usage data never contains personally identifiable information. However, user collected data may contain personally identifiable information.
