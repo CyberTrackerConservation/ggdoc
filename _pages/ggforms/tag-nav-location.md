@@ -2,8 +2,8 @@
 layout: page
 title: Location
 nav_order: 3000
-parent: Question tags
-permalink: /question-tags/3
+parent: Tag reference
+permalink: /tags/location
 has_toc: false
 ---
 Table of Contents
@@ -12,4 +12,4 @@ Table of Contents
 - TOC
 {:toc}
 
-{% include_relative _question-tags-3.md %}
+{% include_relative _tag-location.md %}
