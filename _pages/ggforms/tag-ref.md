@@ -8,13 +8,13 @@ has_toc: false
 ---
 # Tag reference
 
-Rilla extends Google Forms™ with new features. This is done by adding a 'tag' to the _Description_ property of a question. For example, if you add `#geopoint` to a short text question, then it will become a question which captures a location from the GPS.
+Rilla extends Google Forms™ with new features. This is done by adding a **tag** to the _Description_ property of a question. For example, if you add `#geopoint` to a short text question, then it will become a question which captures a location from the GPS.
 
 Tags always start with a `#` on a new line at the **bottom** of the question description property. The description can still be used for adding help to a question and Rilla will remove tags so they will not appear in the description text.
 
 ## Example
 ### 1. Enable question description
-Enable the description property for a question by using the options dropdown and selecting `Description`:
+Enable the description property for a question by using the options dropdown and selecting **Description**:
 <table>
 <tr>
 <td><img src="{{ site.baseurl }}/assets/img/q_tags.png" /></td>
