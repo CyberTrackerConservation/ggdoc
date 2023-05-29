@@ -11,5 +11,17 @@
         "53:C7:B3:F4:44:11:1B:1F:92:38:92:6C:1E:8F:92:C5:75:58:D7:A3:B6:1F:8A:3F:48:74:76:39:14:8D:91:A3"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "org.cybertracker.mock",
+      "sha256_cert_fingerprints": [
+        "51:CE:1E:46:1F:60:1A:23:51:64:35:7F:F5:43:81:D9:9A:28:43:E5:B1:41:CA:DB:81:E4:08:55:28:37:D8:1A"
+      ]
+    }
   }
 ]
