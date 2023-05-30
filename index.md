@@ -12,10 +12,10 @@ nav_order: 1
 ## How does it work?
 Rilla is easy to use, just follow these steps:
 1. Create a [Google Form™](https://forms.google.com)
-1. Install the **Rilla Forms** add-on
+1. Install the [Rilla Forms add-on](https://workspace.google.com/marketplace/app/rilla_forms/800069033510)
 1. Click **Publish** on the sidebar
-1. Scan the QR code on your phone or tablet - install **Rilla Forms** if needed
-1. Capture data and submit it
+1. Install the [Rilla Forms mobile app](https://rillaforms.com/applink/) and scan the QR code
+1. Enter data and Submit it
 
 Check out the video to see it in action:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fxvX7tTkPLA" frameborder="0" allowfullscreen></iframe>
